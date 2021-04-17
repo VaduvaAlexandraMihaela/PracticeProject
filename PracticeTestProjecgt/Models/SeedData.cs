@@ -53,7 +53,21 @@ namespace PracticeTestProjecgt.Models
                         ReleaseDate = DateTime.Parse("1959-4-15"),
                         Genre = "Western",
                         Price = 3.99M
-                    }
+                    },
+                     new Movie
+                     {
+                         Title = "Extinction",
+                         ReleaseDate = DateTime.Parse("2018-3-20"),
+                         Genre = "Sci-fi/Thriller",
+                         Price = 2.89M
+                     },
+                     new Movie
+                     {
+                         Title = "Chemical Hearts",
+                         ReleaseDate = DateTime.Parse("2020-8-21"),
+                         Genre = "Romance/Drama",
+                         Price = 1.15M
+                     }
                 );
                 context.SaveChanges();
             }

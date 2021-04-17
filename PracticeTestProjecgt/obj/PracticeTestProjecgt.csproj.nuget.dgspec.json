@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PracticeTestProjecgt\\PracticeTestProjecgt\\PracticeTestProjecgt.csproj": {}
+    "D:\\Facultate\\PracticeProject\\PracticeTestProjecgt\\PracticeTestProjecgt.csproj": {}
   },
   "projects": {
-    "D:\\PracticeTestProjecgt\\PracticeTestProjecgt\\PracticeTestProjecgt.csproj": {
+    "D:\\Facultate\\PracticeProject\\PracticeTestProjecgt\\PracticeTestProjecgt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PracticeTestProjecgt\\PracticeTestProjecgt\\PracticeTestProjecgt.csproj",
+        "projectUniqueName": "D:\\Facultate\\PracticeProject\\PracticeTestProjecgt\\PracticeTestProjecgt.csproj",
         "projectName": "PracticeTestProjecgt",
-        "projectPath": "D:\\PracticeTestProjecgt\\PracticeTestProjecgt\\PracticeTestProjecgt.csproj",
+        "projectPath": "D:\\Facultate\\PracticeProject\\PracticeTestProjecgt\\PracticeTestProjecgt.csproj",
         "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "D:\\PracticeTestProjecgt\\PracticeTestProjecgt\\obj\\",
+        "outputPath": "D:\\Facultate\\PracticeProject\\PracticeTestProjecgt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

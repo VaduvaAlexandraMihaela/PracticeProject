@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hytHKmQctRNIseAMWar/kVCoIO3+jCN8pDw08h2dQCvxUxYyRT7hue6TdGsdiXEQ5w7qV4XTmBLFZ/wo/mcFyA==",
+  "dgSpecHash": "NZNNcQeGFT+h/ZMVybWx3ph8OJB+8jmn1F8AvkXecaB4bXe2XitIaBYADCqDNFm0vvJaULDRXNfqo14JbsA/LA==",
   "success": true,
-  "projectFilePath": "D:\\PracticeTestProjecgt\\PracticeTestProjecgt\\PracticeTestProjecgt.csproj",
+  "projectFilePath": "D:\\Facultate\\PracticeProject\\PracticeTestProjecgt\\PracticeTestProjecgt.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
